@@ -2,7 +2,7 @@ Graph Visualization Program
 
 This project is a simple web application designed to generate graph visualizations based on user-input data. The graph consists of evenly distributed vertices on a circular layout, with edges connecting them. The project leverages JavaScript for graph generation, CSS for styling, and Flask as the server backend.
 
-*Project is available in Polish only*
+*Project is only available in Polish*
 
 Features
 
