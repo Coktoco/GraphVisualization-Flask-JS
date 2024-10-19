@@ -26,3 +26,7 @@ Tech Stack
 	•	JavaScript: Core logic for graph generation.
 	•	CSS: Styling for visual elements.
 	•	Bootstrap: Additional styling for a responsive and clean UI.
+
+Screenshots:
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/8f30028b-647e-4634-ac23-5f59da543a62">
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/5b3a1024-f372-423e-8c7a-804636f04080">
