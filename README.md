@@ -29,6 +29,8 @@ Tech Stack
 
 Screenshots:
 
-<img width="304" alt="image" src="https://github.com/user-attachments/assets/8f30028b-647e-4634-ac23-5f59da543a62">
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/2ad8adcc-c828-4c71-9ae7-316ab392714e">
 
-<img width="304" alt="image" src="https://github.com/user-attachments/assets/5b3a1024-f372-423e-8c7a-804636f04080">
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/dd35e1b1-b2ab-4e5f-8dd2-a1e7edbe7e46">
+
+
